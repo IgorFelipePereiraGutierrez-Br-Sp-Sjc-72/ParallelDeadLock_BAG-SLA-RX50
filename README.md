@@ -17,9 +17,14 @@
 3. EB dissipation into Lithium with verbal connection;
    
 5. And this Repository, where will register "Float/Disordered Communication's/Interation's" in pattern of My Stamp Signature with extension "RX50". Manually with pen and paper, Increasing +1 for each "Package of Message Connection".
+
    
+- RX+1:
+<img src="images.jpeg" alt="#TX-220120261713-8-8-IFPG-440422115"/>
 
     
 #TX-220120261654-8-6-IFPG-440422115
 
 #TX-220120261701-8-7-IFPG-440422115
+
+#TX-220120261713-8-8-IFPG-440422115
