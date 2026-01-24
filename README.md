@@ -1,4 +1,4 @@
-# ParallelDeadLock_BAG-SLA-RX50
+# Project-ParallelDeadLock_BAG-SLA-RX50
 
 
 - Project to register "Parallel DeadLock's RX" in Communications/Interations, over SLA Pattern's.
@@ -28,3 +28,5 @@
 #TX-220120261701-8-7-IFPG-440422115
 
 #TX-220120261713-8-8-IFPG-440422115
+
+ID: #TX-240120261022-10-17-IFPG-440422115
